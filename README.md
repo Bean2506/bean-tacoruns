@@ -1,9 +1,6 @@
 # Discord
 Bean#7983
 
-# Preview
-https://streamable.com/3nwp7c
-
 # Description
 This Script Allows the following! 
 
